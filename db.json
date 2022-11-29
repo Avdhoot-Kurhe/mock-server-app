@@ -1,4 +1,8 @@
 {
+    "posts": [
+        { "id": 1, "title": "json-server", "author": "typicode" }
+      ],
+    "todos":[],
     "users": [
         {
           "id": 1,
@@ -60,6 +64,5 @@
           "age": 20,
           "email": "cnorssister9@mayoclinic.com"
         }
-      ],
-    "todos":[]
+      ]
 }
